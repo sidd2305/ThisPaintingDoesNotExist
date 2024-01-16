@@ -8,7 +8,7 @@ This repository showcases the culmination of cutting-edge technology and artisti
 
 ## Preview
 
-![Generated Portrait](images/generated_portrait.png)
+![Generated Portrait](gan_output.jpeg)
 
 *Caption: A sample output of the AI-generated portrait drawing.*
 
@@ -16,7 +16,7 @@ This repository showcases the culmination of cutting-edge technology and artisti
 
 Explore the training process through a dynamic video capturing the evolution of the GAN model:
 
-[Training Process Video](videos/training_process.mp4)
+[Training Process Video](gans_training.mp4)
 
 ## GAN Architecture
 
