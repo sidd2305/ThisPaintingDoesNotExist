@@ -2,9 +2,15 @@
 
 Welcome to ThisPaintingDoesNotExist – where art meets artificial intelligence to redefine portrait drawing.
 
+
+
 ## Overview
 
 This repository showcases the culmination of cutting-edge technology and artistic creativity, employing Generative Adversarial Networks (GANs) to generate mesmerizing portrait drawings that transcend imagination. All images presented in this repository are exclusively AI-generated, showcasing the limitless possibilities when technology and artistry converge.
+
+## Dataset
+
+For training, we used the Impressionist Landscape Paintings dataset available on Kaggle. Access the dataset [here](https://www.kaggle.com/datasets/robgonsalves/impressionistlandscapespaintings). It includes 5000 paintings in 1024x1024 RGB format, maintaining an original aspect ratio of 1.27:1.
 
 ## Preview
 
@@ -35,9 +41,7 @@ ThisPaintingDoesntExist utilizes a Generative Adversarial Network (GAN) to gener
 - Check out the blog post for an in-depth exploration: [Blog Post](https://jovian.com/aakashns/06b-anime-dcgan)
 - Watch a detailed video explanation: [Video Explanation](https://www.youtube.com/watch?v=79IvwU3G5_Q&t=1s)
 
-## Dataset
 
-For training, we used the Impressionist Landscape Paintings dataset available on Kaggle. Access the dataset [here](https://www.kaggle.com/datasets/robgonsalves/impressionistlandscapespaintings). It includes 5000 paintings in 1024x1024 RGB format, maintaining an original aspect ratio of 1.27:1.
 
 ## Getting Started
 
