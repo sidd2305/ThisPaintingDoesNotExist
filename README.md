@@ -22,7 +22,7 @@ Explore the training process through a dynamic video capturing the evolution of 
 
 Gain insights into the underlying architecture driving the artistic magic:
 
-![GAN Architecture](https://developers.google.com/machine-learning/gan/gan_structure)
+![GAN Architecture](working.png)
 
 *Caption: Visualization of the GAN architecture responsible for crafting the mesmerizing portrait drawings.*
 
@@ -32,8 +32,12 @@ ThisPaintingDoesntExist utilizes a Generative Adversarial Network (GAN) to gener
 
 ## References
 
-- Watch the detailed training process in action: [Training Process Video](videos/training_process.mp4)
-- Delve deeper into the GAN architecture: [GAN Architecture Paper](references/gan_architecture_paper.pdf)
+- Check out the blog post for an in-depth exploration: [Blog Post](https://jovian.com/aakashns/06b-anime-dcgan)
+- Watch a detailed video explanation: [Video Explanation](https://www.youtube.com/watch?v=79IvwU3G5_Q&t=1s)
+
+## Dataset
+
+For training, we used the Impressionist Landscape Paintings dataset available on Kaggle. Access the dataset [here](https://www.kaggle.com/datasets/robgonsalves/impressionistlandscapespaintings). It includes 5000 paintings in 1024x1024 RGB format, maintaining an original aspect ratio of 1.27:1.
 
 ## Getting Started
 
