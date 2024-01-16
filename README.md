@@ -1,6 +1,6 @@
-# ThisPaintingDoesntExist
+# ThisPaintingDoesNotExist
 
-Welcome to ThisPaintingDoesntExist – where art meets artificial intelligence to redefine portrait drawing.
+Welcome to ThisPaintingDoesNotExist – where art meets artificial intelligence to redefine portrait drawing.
 
 ## Overview
 
@@ -22,7 +22,7 @@ Explore the training process through a dynamic video capturing the evolution of 
 
 Gain insights into the underlying architecture driving the artistic magic:
 
-![GAN Architecture](images/gan_architecture.png)
+![GAN Architecture](https://developers.google.com/machine-learning/gan/gan_structure)
 
 *Caption: Visualization of the GAN architecture responsible for crafting the mesmerizing portrait drawings.*
 
